@@ -7,3 +7,8 @@ body {
   color: #f6adc6;
   text-align: center;
 }
+
+.main{
+  background-color: #d3d3d3;
+  padding: 1em;
+}
