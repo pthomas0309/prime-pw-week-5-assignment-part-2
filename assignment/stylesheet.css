@@ -1,3 +1,9 @@
 body {
   margin: 0px;
 }
+
+.heading {
+  background-color: #3eb489;
+  color: #f6adc6;
+  text-align: center;
+}
